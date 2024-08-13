@@ -1,5 +1,5 @@
 # 💫 About me:
-🌍 I’m based in Indonesian<br>👯 I’m looking to collaborate on [Project Based Learning](https://d3ti.vokasi.uns.ac.id/) And [Project Based Learning](https://www.oemahsolution.com/)<br>🌱 I’m currently learning NextJS, NodeJS, Typescript<br>📫 How to reach me aulia.fivi911@gmail.com<br>📄 Know about my experiences https://www.linkedin.com/in/fiviaulia
+🌍 I’m based in Indonesian<br>👯 I’m looking to collaborate on [Project Based Learning](https://d3ti.vokasi.uns.ac.id/) And [Project Based Learning](https://www.oemahsolution.com/)<br>🌱 I’m currently learning NextJS, NodeJS, Typescript<br>📫 How to reach me aulia.fivi910@gmail.com<br>📄 Know about my experiences https://www.linkedin.com/in/fiviaulia
 
 
 ## 🌐 Socials:
